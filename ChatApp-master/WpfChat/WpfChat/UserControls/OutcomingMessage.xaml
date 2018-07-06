@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="WpfChat.UserControls.OutcomingMessage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfChat.UserControls"
+             mc:Ignorable="d" 
+             d:DesignWidth="400"
+             HorizontalAlignment="Right">
+    <Grid Width="400" Margin="0,15,0,15">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="2">
+            <Image Source="../images/chat_profile_photo2.png" Stretch="None"></Image>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid Width="10" Height="10">
+                <Polygon>
+                    <Polygon.Points>
+                        <Point X="0" Y="0" />
+                        <Point X="0" Y="10" />
+                        <Point X="10" Y="5" />
+                    </Polygon.Points>
+                    <Polygon.Fill>
+                        <SolidColorBrush Color="#2ECC71"/>
+                    </Polygon.Fill>
+                </Polygon>
+            </Grid>
+        </Grid>
+        <Grid Grid.Column="0">
+            <Rectangle Width="Auto" Height="Auto" Fill="#2ECC71" RadiusX="6" RadiusY="6"></Rectangle>
+            <TextBlock Name="MessageText" Text="StackOverflowsfdsffdafdafdfaef4efergfrf dsfafdadfasdffadfa" Width="Auto" VerticalAlignment="Center" TextWrapping="Wrap" Margin="5"/>
+        </Grid>
+    </Grid>
+</UserControl>

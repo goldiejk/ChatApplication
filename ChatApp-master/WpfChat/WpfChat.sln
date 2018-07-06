@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChat", "WpfChat\WpfChat.csproj", "{A8BC0886-87F6-44DE-8F55-2FA785A8F7B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatServer", "ChatServer\ChatServer.csproj", "{DBFACDF4-2259-4D76-8DBE-3CFB66FEE1CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer2", "ChatServer2\ChatServer2.csproj", "{0B2664D0-DC40-4A27-B926-62F216760EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BC0886-87F6-44DE-8F55-2FA785A8F7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BC0886-87F6-44DE-8F55-2FA785A8F7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BC0886-87F6-44DE-8F55-2FA785A8F7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BC0886-87F6-44DE-8F55-2FA785A8F7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFACDF4-2259-4D76-8DBE-3CFB66FEE1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFACDF4-2259-4D76-8DBE-3CFB66FEE1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFACDF4-2259-4D76-8DBE-3CFB66FEE1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFACDF4-2259-4D76-8DBE-3CFB66FEE1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2664D0-DC40-4A27-B926-62F216760EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2664D0-DC40-4A27-B926-62F216760EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2664D0-DC40-4A27-B926-62F216760EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2664D0-DC40-4A27-B926-62F216760EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDF0102-BE32-4C54-A690-D10EFAEB251C}
+	EndGlobalSection
+EndGlobal

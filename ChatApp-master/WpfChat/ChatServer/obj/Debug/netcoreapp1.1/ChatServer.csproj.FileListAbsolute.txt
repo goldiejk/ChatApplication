@@ -1,0 +1,10 @@
+C:\DEV\ChatApp\WpfChat\ChatServer\bin\Debug\netcoreapp1.1\ChatServer.deps.json
+C:\DEV\ChatApp\WpfChat\ChatServer\bin\Debug\netcoreapp1.1\ChatServer.runtimeconfig.json
+C:\DEV\ChatApp\WpfChat\ChatServer\bin\Debug\netcoreapp1.1\ChatServer.runtimeconfig.dev.json
+C:\DEV\ChatApp\WpfChat\ChatServer\bin\Debug\netcoreapp1.1\ChatServer.dll
+C:\DEV\ChatApp\WpfChat\ChatServer\obj\Debug\netcoreapp1.1\ChatServer.csprojResolveAssemblyReference.cache
+C:\DEV\ChatApp\WpfChat\ChatServer\obj\Debug\netcoreapp1.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\DEV\ChatApp\WpfChat\ChatServer\obj\Debug\netcoreapp1.1\ChatServer.AssemblyInfo.cs
+C:\DEV\ChatApp\WpfChat\ChatServer\bin\Debug\netcoreapp1.1\ChatServer.pdb
+C:\DEV\ChatApp\WpfChat\ChatServer\obj\Debug\netcoreapp1.1\ChatServer.dll
+C:\DEV\ChatApp\WpfChat\ChatServer\obj\Debug\netcoreapp1.1\ChatServer.pdb
